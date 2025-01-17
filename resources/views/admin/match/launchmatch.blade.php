@@ -32,7 +32,6 @@
                         <a class="btn btn-danger"
                             href="{{ route('match.unlaunch', base64_encode($findmatchdetails->id)) }}">
                             <i class="">
-                                <?xml version="1.0" standalone="no"?>
                                 <!DOCTYPE svg
                                     PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="16" height="16"
