@@ -455,7 +455,7 @@
                                 data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuOffer"
                                 aria-expanded="false" aria-controls="navbarVerticalMenuOffer">
                                 <i class="nav-icon">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="16"
@@ -510,7 +510,6 @@
                                 data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuInfluencer"
                                 aria-expanded="false" aria-controls="navbarVerticalMenuInfluencer">
                                 <i class="nav-icon">
-                                    <?xml version="1.0" standalone="no"?>
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="16"
@@ -565,7 +564,7 @@
                             <div class="nav-item">
                                 <a class="nav-link" style="color: red;font-weight: 900;background: #fff;">
                                     <i class="nav-icon">
-                                        <?xml version="1.0" standalone="no"?>
+                                        
                                         <!DOCTYPE svg
                                             PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                         <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="16pt"
@@ -724,7 +723,7 @@
                                     data-bs-toggle="collapse" data-bs-target="#navbarVerticalMenuPlayer"
                                     aria-expanded="false" aria-controls="navbarVerticalMenuPlayer">
                                     <i class="nav-icon">
-                                        <?xml version="1.0" standalone="no"?>
+                                        
                                         <!DOCTYPE svg
                                             PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                         <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="16pt"
@@ -851,7 +850,7 @@
                             <div class="nav-item">
                                 <a class="nav-link" style="color: red;font-weight: 900;background: #fff;">
                                     <i class="nav-icon">
-                                        <?xml version="1.0" standalone="no"?> <svg version="1.0"
+                                         <svg version="1.0"
                                             xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt"
                                             viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
                                             <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
@@ -1005,7 +1004,7 @@
                             <div class="nav-item">
                                 <a class="nav-link" style="color: red;font-weight: 900;background: #fff;">
                                     <i class="nav-icon">
-                                        <?xml version="1.0" standalone="no"?> <svg version="1.0"
+                                         <svg version="1.0"
                                             xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt"
                                             viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
                                             <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
@@ -1160,7 +1159,7 @@
                             <div class="nav-item">
                                 <a class="nav-link" style="color: red;font-weight: 900;background: #fff;">
                                     <i class="nav-icon">
-                                        <?xml version="1.0" standalone="no"?> <svg version="1.0"
+                                         <svg version="1.0"
                                             xmlns="http://www.w3.org/2000/svg" width="16pt" height="16pt"
                                             viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
                                             <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"

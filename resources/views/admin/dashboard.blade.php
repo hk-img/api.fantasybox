@@ -176,7 +176,7 @@
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
@@ -265,7 +265,7 @@ c124 120 281 380 341 567 55 168 70 266 70 466 0 199 -14 295 -69 466 -39 121
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
@@ -350,7 +350,7 @@ m-1366 742 c290 -75 524 -268 631 -521 l22 -52 -182 -268 c-101 -147 -190
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
@@ -524,7 +524,7 @@ m-1366 742 c290 -75 524 -268 631 -521 l22 -52 -182 -268 c-101 -147 -190
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
@@ -593,7 +593,7 @@ m214 -342 c142 -82 1539 -948 1539 -954 0 -5 -236 -8 -525 -8 -557 0 -554 1
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
@@ -662,7 +662,7 @@ m214 -342 c142 -82 1539 -948 1539 -954 0 -5 -236 -8 -525 -8 -557 0 -554 1
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
@@ -872,7 +872,7 @@ m214 -342 c142 -82 1539 -948 1539 -954 0 -5 -236 -8 -525 -8 -557 0 -554 1
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
@@ -966,7 +966,7 @@ m214 -342 c142 -82 1539 -948 1539 -954 0 -5 -236 -8 -525 -8 -557 0 -554 1
                                 <!-- End Col -->
 
                                 <div class="col-3">
-                                    <?xml version="1.0" standalone="no"?>
+                                    
                                     <!DOCTYPE svg
                                         PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
                                     <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="40pt" height="40pt"
