@@ -3,7 +3,7 @@
 return [
     'endpoint'      => 'http://rest.entitysport.com/v2/',
     // 'entityToken'   => '437bdbd273e3a69b69a93dc0706a74d0',
-    'entityToken'   => 'def7a647e4264b75a2e94905f0b3df64',
+    'entityToken'   => '0930876c70b22c531c1e27d6bf2bd8a5',
     'competitions'  => 'http://rest.entitysport.com/v2/seasons/2023/competitions',
     'upcoming'      => 'https://rest.entitysport.com/v2/matches/',
     'values'        => [
