@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+
+Noindex: /thankyou
+
+Allow: /*.webp
+Allow: /*.jpeg
+Allow: /*.jpg
+Allow: /*.JPEG
+Allow: /*.JPG
+Allow: /*.GIF
+Allow: /*.gif
+Allow: /*.PNG
+Allow: /*.png
+Allow: /*.xml
